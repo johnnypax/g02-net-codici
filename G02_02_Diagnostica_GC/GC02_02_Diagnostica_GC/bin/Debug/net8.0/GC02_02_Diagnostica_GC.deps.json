@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GC02_02_Diagnostica_GC/1.0.0": {
+        "runtime": {
+          "GC02_02_Diagnostica_GC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GC02_02_Diagnostica_GC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

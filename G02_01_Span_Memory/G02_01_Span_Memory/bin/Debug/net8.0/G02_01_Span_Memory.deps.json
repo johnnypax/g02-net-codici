@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "G02_01_Span_Memory/1.0.0": {
+        "runtime": {
+          "G02_01_Span_Memory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G02_01_Span_Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

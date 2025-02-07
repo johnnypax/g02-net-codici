@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\bin\Debug\net8.0\G02_01_Span_Memory.exe
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\bin\Debug\net8.0\G02_01_Span_Memory.deps.json
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\bin\Debug\net8.0\G02_01_Span_Memory.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\bin\Debug\net8.0\G02_01_Span_Memory.dll
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\bin\Debug\net8.0\G02_01_Span_Memory.pdb
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.dll
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\refint\G02_01_Span_Memory.dll
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.pdb
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\G02_01_Span_Memory.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G02_01_Span_Memory\G02_01_Span_Memory\obj\Debug\net8.0\ref\G02_01_Span_Memory.dll
