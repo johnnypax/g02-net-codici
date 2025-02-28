@@ -1,0 +1,6 @@
+@MinimalAPI_06_EF_MTM_HostAddress = http://localhost:5201
+
+GET {{MinimalAPI_06_EF_MTM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

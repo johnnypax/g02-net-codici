@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G02_04_Test_MinimalApi_Intro.props" />
+</Project>

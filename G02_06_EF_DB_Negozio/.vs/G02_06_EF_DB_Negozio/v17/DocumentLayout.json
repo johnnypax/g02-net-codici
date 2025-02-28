@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\models\\g02dfnegoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\models\\g02dfnegoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\g02_06_ef_db_negozio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|c:\\users\\academy\\source\\repos\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio\\g02_06_ef_db_negozio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8DAF10C9-8256-44E8-8244-10C9FEF31913}|G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj|solutionrelative:g02_06_ef_db_negozio\\g02_06_ef_db_negozio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 262,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "G02DfNegozioContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Models\\G02DfNegozioContext.cs",
+              "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\Models\\G02DfNegozioContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Models\\G02DfNegozioContext.cs",
+              "RelativeToolTip": "G02_06_EF_DB_Negozio\\Models\\G02DfNegozioContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:22:11.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Models\\Prodotto.cs",
+              "RelativeToolTip": "G02_06_EF_DB_Negozio\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:22:04.473Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +74,14 @@
               "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\Controllers\\ProdottoController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Controllers\\ProdottoController.cs",
               "RelativeToolTip": "G02_06_EF_DB_Negozio\\Controllers\\ProdottoController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:30:33.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\appsettings.json",
               "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\appsettings.json",
@@ -55,13 +89,12 @@
               "RelativeToolTip": "G02_06_EF_DB_Negozio\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T16:25:17.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T16:25:17.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "G02_06_EF_DB_Negozio",
+              "DocumentIndex": 3,
+              "Title": "G02_06_EF_DB_Negozio.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj",
               "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio.csproj",
@@ -73,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Program.cs",
               "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\Program.cs",
@@ -81,12 +114,11 @@
               "RelativeToolTip": "G02_06_EF_DB_Negozio\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:51:00.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:51:00.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_06_EF_DB_Negozio\\G02_06_EF_DB_Negozio\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "G02_06_EF_DB_Negozio\\Properties\\launchSettings.json",
@@ -94,8 +126,7 @@
               "RelativeToolTip": "G02_06_EF_DB_Negozio\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T15:50:27.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:50:27.89Z"
             }
           ]
         },

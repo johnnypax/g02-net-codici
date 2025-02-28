@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\bin\Debug\net9.0\Fact_Theory.exe
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\bin\Debug\net9.0\Fact_Theory.deps.json
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\bin\Debug\net9.0\Fact_Theory.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\bin\Debug\net9.0\Fact_Theory.dll
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\bin\Debug\net9.0\Fact_Theory.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.dll
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\refint\Fact_Theory.dll
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\Fact_Theory.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G02_Test_01_Fact_Theory\G02_Test_01_Fact_Theory\obj\Debug\net9.0\ref\Fact_Theory.dll

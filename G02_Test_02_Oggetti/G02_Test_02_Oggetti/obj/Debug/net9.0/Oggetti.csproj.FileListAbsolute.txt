@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\bin\Debug\net9.0\Oggetti.exe
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\bin\Debug\net9.0\Oggetti.deps.json
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\bin\Debug\net9.0\Oggetti.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\bin\Debug\net9.0\Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\bin\Debug\net9.0\Oggetti.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\refint\Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\Oggetti.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G02_Test_02_Oggetti\G02_Test_02_Oggetti\obj\Debug\net9.0\ref\Oggetti.dll

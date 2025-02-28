@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G02_07_EF_CF_OTM.props" />
+</Project>

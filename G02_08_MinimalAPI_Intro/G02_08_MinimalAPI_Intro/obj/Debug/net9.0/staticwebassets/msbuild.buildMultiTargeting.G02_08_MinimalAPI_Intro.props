@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G02_08_MinimalAPI_Intro.props" />
+</Project>

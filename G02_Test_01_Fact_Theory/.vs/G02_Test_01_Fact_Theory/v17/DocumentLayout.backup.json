@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FAF39-F0A3-4DB0-82B5-AC669210A3EA}|Fact_Theory.Tests\\Fact_Theory.Tests.csproj|c:\\users\\academy\\source\\repos\\g02_test_01_fact_theory\\fact_theory.tests\\servicestests\\studenteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4FAF39-F0A3-4DB0-82B5-AC669210A3EA}|Fact_Theory.Tests\\Fact_Theory.Tests.csproj|solutionrelative:fact_theory.tests\\servicestests\\studenteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FAF39-F0A3-4DB0-82B5-AC669210A3EA}|Fact_Theory.Tests\\Fact_Theory.Tests.csproj|c:\\users\\academy\\source\\repos\\g02_test_01_fact_theory\\fact_theory.tests\\fact_theory.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA4FAF39-F0A3-4DB0-82B5-AC669210A3EA}|Fact_Theory.Tests\\Fact_Theory.Tests.csproj|solutionrelative:fact_theory.tests\\fact_theory.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory.csproj|c:\\users\\academy\\source\\repos\\g02_test_01_fact_theory\\g02_test_01_fact_theory\\services\\studenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory.csproj|solutionrelative:g02_test_01_fact_theory\\services\\studenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\Fact_Theory.csproj|c:\\users\\academy\\source\\repos\\g02_test_01_fact_theory\\g02_test_01_fact_theory\\fact_theory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\Fact_Theory.csproj|solutionrelative:g02_test_01_fact_theory\\fact_theory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory.csproj|c:\\users\\academy\\source\\repos\\g02_test_01_fact_theory\\g02_test_01_fact_theory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC36A1F-B9EC-4611-93BF-186C3B003DEB}|G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory.csproj|solutionrelative:g02_test_01_fact_theory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 891,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudenteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\Fact_Theory.Tests\\ServicesTests\\StudenteServiceTests.cs",
+              "RelativeDocumentMoniker": "Fact_Theory.Tests\\ServicesTests\\StudenteServiceTests.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\Fact_Theory.Tests\\ServicesTests\\StudenteServiceTests.cs",
+              "RelativeToolTip": "Fact_Theory.Tests\\ServicesTests\\StudenteServiceTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:10:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fact_Theory.Tests",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\Fact_Theory.Tests\\Fact_Theory.Tests.csproj",
+              "RelativeDocumentMoniker": "Fact_Theory.Tests\\Fact_Theory.Tests.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\Fact_Theory.Tests\\Fact_Theory.Tests.csproj",
+              "RelativeToolTip": "Fact_Theory.Tests\\Fact_Theory.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T14:08:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fact_Theory.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Fact_Theory.csproj",
+              "RelativeDocumentMoniker": "G02_Test_01_Fact_Theory\\Fact_Theory.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Fact_Theory.csproj",
+              "RelativeToolTip": "G02_Test_01_Fact_Theory\\Fact_Theory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T14:05:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudenteService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Services\\StudenteService.cs",
+              "RelativeDocumentMoniker": "G02_Test_01_Fact_Theory\\Services\\StudenteService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Services\\StudenteService.cs",
+              "RelativeToolTip": "G02_Test_01_Fact_Theory\\Services\\StudenteService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:03:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Program.cs",
+              "RelativeDocumentMoniker": "G02_Test_01_Fact_Theory\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G02_Test_01_Fact_Theory\\G02_Test_01_Fact_Theory\\Program.cs",
+              "RelativeToolTip": "G02_Test_01_Fact_Theory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:00:43.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

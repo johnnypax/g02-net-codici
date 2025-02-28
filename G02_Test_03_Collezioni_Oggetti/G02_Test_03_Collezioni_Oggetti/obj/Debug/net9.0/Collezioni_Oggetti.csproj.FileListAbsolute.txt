@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\bin\Debug\net9.0\Collezioni_Oggetti.exe
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\bin\Debug\net9.0\Collezioni_Oggetti.deps.json
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\bin\Debug\net9.0\Collezioni_Oggetti.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\bin\Debug\net9.0\Collezioni_Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\bin\Debug\net9.0\Collezioni_Oggetti.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\refint\Collezioni_Oggetti.dll
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.pdb
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\Collezioni_Oggetti.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G02_Test_03_Collezioni_Oggetti\G02_Test_03_Collezioni_Oggetti\obj\Debug\net9.0\ref\Collezioni_Oggetti.dll

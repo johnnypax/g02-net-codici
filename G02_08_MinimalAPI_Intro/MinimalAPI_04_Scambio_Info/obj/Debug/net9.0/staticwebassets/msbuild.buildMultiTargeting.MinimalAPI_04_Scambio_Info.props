@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinimalAPI_04_Scambio_Info.props" />
+</Project>

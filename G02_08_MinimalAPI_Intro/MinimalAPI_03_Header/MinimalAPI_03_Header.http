@@ -1,0 +1,6 @@
+@MinimalAPI_03_Header_HostAddress = http://localhost:5032
+
+GET {{MinimalAPI_03_Header_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

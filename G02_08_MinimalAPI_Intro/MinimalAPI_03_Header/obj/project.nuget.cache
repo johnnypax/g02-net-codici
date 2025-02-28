@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gC2MBuHGhS4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\G02_08_MinimalAPI_Intro\\MinimalAPI_03_Header\\MinimalAPI_03_Header.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
