@@ -1,0 +1,7 @@
+C:\out\01_MinimalIntro.exe
+C:\out\appsettings.Development.json
+C:\out\appsettings.json
+C:\out\01_MinimalIntro.dll
+C:\out\01_MinimalIntro.deps.json
+C:\out\01_MinimalIntro.runtimeconfig.json
+C:\out\01_MinimalIntro.pdb

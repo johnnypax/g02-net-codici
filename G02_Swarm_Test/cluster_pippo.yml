@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  webs_nginx:
+    image: nginx:1.27
+    deploy:
+      replicas: 4
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "80:80"
+    networks:
+      - c02_over_network
+
+  webs_tomcat:
+    image: tomcat:latest
+    deploy:
+      replicas: 6
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "8080:8080"
+    networks:
+      - c02_over_network
+
+networks:
+  c02_over_network:
+    driver: overlay
